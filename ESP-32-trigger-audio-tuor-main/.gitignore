@@ -1,0 +1,9 @@
+build/
+.vscode/
+managed_components/
+*.bin
+*.elf
+*.map
+*.log
+*.o
+*.a
